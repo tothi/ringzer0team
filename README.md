@@ -5,7 +5,7 @@
 **Rank (as of [17-07-2017](https://web.archive.org/web/20160717084518/http://ringzer0team.com)):** 1st
 
 Detailed scoreboard as of 17-07-2017 is
-available here: <scores_20160717.ods>.
+available here: [scores_20160717.ods](scores_20160717.ods)
 
 Special thx to the founder of the awesome ringzer0team.com site,
 [Mr.Un1k0d3r](https://twitter.com/mrun1k0d3r).
