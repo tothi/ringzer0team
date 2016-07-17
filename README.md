@@ -2,7 +2,7 @@
 
 **Site:** <https://ringzer0team.com>
 **Profile:** [an0n](https://ringzer0team.com/profile/3919/an0n)
-**Rank (as of [17-07-2017](https://web.archive.org/web/20160717084518/http://ringzer0team.com)):** 1st
+**Rank (as of [17-07-2017](https://web.archive.org/web/20160717084518/http://ringzer0team.com)):** 1st (out of total 11582 players)
 
 Detailed scoreboard as of 17-07-2017 is
 available here: [scores_20160717.ods](scores_20160717.ods)
