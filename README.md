@@ -2,22 +2,22 @@
 
 **Site:** <https://ringzer0team.com>
 **Profile:** [an0n](https://ringzer0team.com/profile/3919/an0n)
-**Rank (as of [17-07-2016](https://web.archive.org/web/20160717084518/http://ringzer0team.com)):** [1st](https://twitter.com/RingZer0_CTF/status/754664406244585477) (out of total 11582 players)
-**UPDATE: Rank (as of [03-05-2017](http://web.archive.org/web/20170503181342/https://ringzer0team.com/)):** still [1st](http://web.archive.org/web/20170503190322/https://ringzer0team.com/profile/3919/an0n) (out of total 16581 players) since 10 months
+**Rank (as of [17-07-2016](https://web.archive.org/web/20160717084518/http://ringzer0team.com)):** [1st](https://twitter.com/RingZer0_CTF/status/754664406244585477)
+**UPDATE: Rank (as of [20-08-2017](http://web.archive.org/web/20170820070825/https://ringzer0team.com/):** still [1st](http://web.archive.org/web/20170820071622/https://ringzer0team.com/profile/3919/an0n) (out of total 18340 players) since more than a year
 
-Solved ~~217~~ 240 challenges out of ~~239~~ 260 (>92%) in various categories:
+Solved ~~217~~ 262 challenges out of ~~239~~ 270 (>97%) in various categories:
 Coding challenges, Cryptography,
 Forensics, Jail Escaping, Javascript, Malware Analysis,
 Pwnage Linux, Reverse Engineering, Shellcoding, SQL Injection,
 Steganography, SysAdmin Linux and Web.
 
-Submitted write-ups, ~~17~~ 19 with "special mentions".
+Submitted write-ups, ~~17~~ 21 with "special mentions".
 (Write-ups are locked, available only for people who has
 been also solved the challenges on ringzer0team.com.)
 
-Detailed scoreboards as of 17-07-2016 and 03-04-2017 are
+Detailed scoreboards as of 17-07-2016 and 20-08-2017 are
 available here: [scores_20160717.ods](scores_20160717.ods)
-[scores_20170503.ods](scores_20170503.ods)
+[scores_20170820.ods](scores_20170820.ods)
 
 Special thx to the founder of the awesome ringzer0team.com site,
 [Mr.Un1k0d3r](https://twitter.com/mrun1k0d3r).
