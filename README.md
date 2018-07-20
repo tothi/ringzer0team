@@ -3,9 +3,9 @@
 **Site:** <https://ringzer0team.com>
 **Profile:** [an0n](https://ringzer0team.com/profile/3919/an0n)
 **Rank (as of [17-07-2016](https://web.archive.org/web/20160717084518/http://ringzer0team.com)):** [1st](https://twitter.com/RingZer0_CTF/status/754664406244585477)
-**UPDATE: Rank (as of [27-02-2018](http://web.archive.org/web/20180227025037/https://ringzer0team.com/):** still [1st](http://web.archive.org/web/20180227025124/https://ringzer0team.com/profile/3919/an0n) (out of total 21140 players) since more than a year
+**UPDATE: Rank (as of [21-07-2018](http://web.archive.org/web/20180720235226/https://ringzer0team.com/):** still [1st](http://web.archive.org/web/20180720234922/https://ringzer0team.com/profile/3919/an0n) (out of total 23334 players) since more than two years
 
-Solved ~~217~~ 263 challenges out of ~~239~~ 273 (>96%) in various categories:
+Solved ~~217~~ 263 challenges out of ~~239~~ 292 (>90%) in various categories:
 Coding challenges, Cryptography,
 Forensics, Jail Escaping, Javascript, Malware Analysis,
 Pwnage Linux, Reverse Engineering, Shellcoding, SQL Injection,
